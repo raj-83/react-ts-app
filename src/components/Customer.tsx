@@ -14,6 +14,7 @@ const Customer = ({ name, Title,age }: CustomerProps) => {
         <h2>{Title}</h2>
         <h2>{age}</h2>
         <h3>Ranjan Ranjan Ranjan</h3>
+        <h2>Rajeev Kumar</h2>
     </div>
   )
 }
