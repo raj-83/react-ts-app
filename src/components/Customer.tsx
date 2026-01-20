@@ -13,7 +13,11 @@ const Customer = ({ name, Title,age }: CustomerProps) => {
         <h2>{name}</h2>
         <h2>{Title}</h2>
         <h2>{age}</h2>
+        <h1>Welcome to Customer Component</h1>
+        
+
     </div>
+
   )
 }
 
